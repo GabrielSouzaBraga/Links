@@ -66,14 +66,14 @@
   cursor: pointer;
   width: 60px;
   height: 60px;
-  background: #F06414;
-  border: 2px solid #F06414;
+  background: #2D3142;
+  border: 2px solid #2D3142;
   border-radius: 50%;
   align-content: center;
 }
 
 .social-media i:hover{
-  background: #2D3142;
+  background: #F06414;
   border: 2px solid #fff;
 }
 
